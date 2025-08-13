@@ -1,0 +1,30 @@
+#tab{
+     margin-top:30px;
+}
+body{
+    background-color: rgb(48, 57, 185);
+    background-image:url(stunning-high-resolution-nature-and-landscape-backgrounds-breathtaking-scenery-in-hd-photo.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+#res{
+    height: 100px;
+    width: 600px;
+    font-size:xxx-large;
+    background-color:transparent;
+    color: rgb(228, 21, 118);
+
+}
+#tr, td{
+    height: 100px;
+    width: 100px;
+    
+}
+button 
+{height: 100px;
+width:150px;
+font-size:xx-large;
+background-color:transparent;
+color: rgb(228, 21, 118);
+
+}
